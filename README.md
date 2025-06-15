@@ -1,6 +1,4 @@
-# throwtheenemy
-
-# VR Enemy Thrower – Unity Project
+# throwtheenemy - Unity Project
 
 ## Over dit project
 
