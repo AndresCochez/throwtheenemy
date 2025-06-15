@@ -17,10 +17,10 @@ Dit is een individueel uitgewerkt project en maakt deel uit van de opleiding *Ex
 
 ## Gebruikte technologieën
 
-- **Unity** (versie X.XX.X, vul hier de gebruikte versie in)
+- **Unity** (door ouder project, versie 2019.4.5f1)
 - **XR Interaction Toolkit**
 - **C# scripting**
-- **Oculus/SteamVR ondersteuning** (afhankelijk van jouw setup)
+- **Oculus ondersteuning** 
 
 ## Structuur van het project
 
